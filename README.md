@@ -14,18 +14,7 @@
 - **Web Development:** HTML, CSS, JavaScript (Learning Full Stack)
 - **Databases:** Firebase (Exploring Backend Integration)
 - **Version Control:** Git & GitHub
-- **Operating Systems:** Learning OS concepts and Shell Scripting
-
-## 📌 Projects
-
-### 🌟 Family Finance Hub (Ongoing)
-A web application for managing family finances collaboratively.
-- Implementing authentication using Firebase (planning to switch to Google OAuth with a custom backend)
-- Working on backend and database integration
-- Will be hosted on a free server after completion
-
-### 📌 Portfolio Website (Coming Soon)
-A personal portfolio to showcase my skills, projects, and experiences.
+- **Operating Systems:** Learning OS concepts and Shell Scripting.
 
 ## 📖 Learning & Goals
 
