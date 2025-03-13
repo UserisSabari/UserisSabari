@@ -16,15 +16,6 @@
 - **Version Control:** Git & GitHub
 - **Operating Systems:** Learning OS concepts and Shell Scripting.
 
-## 📖 Learning & Goals
-
-- 🚀 Mastering Full Stack Development & Cloud Technologies
-- 📌 Building real-world projects and contributing to open source
-- 🎯 Securing a high-paying software development job in the future
-- 📚 Exploring System Design & Advanced Backend Concepts
-
-📌 Always open to collaboration, learning, and exciting tech discussions! 🚀
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sa_b_ar_ii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabarisanthosh45) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabarisanthosh45) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SabariS36223019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabarisanthosh85@gmail.com) 
 
@@ -35,4 +26,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UserisSabari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UserisSabari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📖 Learning & Goals
+
+- 🚀 Mastering Full Stack Development & Cloud Technologies
+- 📌 Building real-world projects and contributing to open source
+- 🎯 Securing a high-paying software development job in the future
+- 📚 Exploring System Design & Advanced Backend Concepts
+
+📌 Always open to collaboration, learning, and exciting tech discussions! 🚀
