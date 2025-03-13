@@ -7,15 +7,6 @@
 - 🔥 Tech Enthusiast | Fast Learner | Curious Explorer
 - 🌱 Currently learning Web Development (MERN Stack) & Cloud Technologies
 - 💡 Interested in Software Development, Open Source, and High-Paying Career Opportunities
-
-## 🔨 Skills & Technologies
-
-- **Programming Languages:** C, C++, Java, Python
-- **Web Development:** HTML, CSS, JavaScript (Learning Full Stack)
-- **Databases:** Firebase (Exploring Backend Integration)
-- **Version Control:** Git & GitHub
-- **Operating Systems:** Learning OS concepts and Shell Scripting.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sa_b_ar_ii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabarisanthosh45) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabarisanthosh45) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SabariS36223019) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabarisanthosh85@gmail.com) 
 
